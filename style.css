@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+    margin-left: 200px;
+}
+
+.containers{
+    background-color: skyblue;
+    padding-left: 30px;
+    height: 600px;
+    width: 400px;
+    border-radius: 10%;
+    border: 2px wheat solid;
+}
+
+h1{
+    padding-top: 40px;
+    text-align: center;
+    padding-right:20px ;
+}
+
+#p1{
+    text-align: center;
+    padding-right: 80px;
+    color: rgb(47, 43, 43);
+}
+.full-name{
+    padding-top: 20px;
+}
+.username{
+    padding-top: 20px;
+}
+.email{
+    padding-top: 20px;
+}
+.password{
+    padding-top: 20px;
+}
+.cpassword{
+    padding-top: 20px;
+}
+.check{
+    padding-top: 20px;
+}
+.btn{
+    padding-top: 35px;
+    text-align: center;
+    padding-right: 30px;
+}
+.already-mem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+#i107{
+    text-decoration: none;
+    color: purple;
+}
+#i109{
+    text-decoration: none;
+    color: purple;
+}
+#i108{
+    height: 40px;
+    width: 300px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding-right: 20px;
+    color: black;
+    font-size: 18px;
+    background-color: brown;
+    border: none;
+}
+#i101{
+    background-color: skyblue;
+    border: none;
+    border-bottom: 2px purple solid;
+    width: 275px;
+    padding-top: 5px;
+}
+#i102{
+    background-color: skyblue;
+    border: none;
+    border-bottom: 2px purple solid;
+    width: 275px;
+    padding-top: 5px;
+}
+#i103{
+    background-color: skyblue;
+    border: none;
+    border-bottom: 2px purple solid;
+    width: 275px;
+    padding-top: 5px;
+}
+#i104{
+    background-color: skyblue;
+    border: none;
+    border-bottom: 2px purple solid;
+    width: 275px;
+    padding-top: 5px;
+}
+#i105{
+    background-color: skyblue;
+    border: none;
+    border-bottom: 2px purple solid;
+    width: 275px;
+    padding-top: 5px;
+}
