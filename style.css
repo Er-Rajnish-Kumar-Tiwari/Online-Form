@@ -19,15 +19,16 @@ body{
     border: 2px wheat solid;
 }
 
-h1{
+#ph{
     padding-top: 40px;
     text-align: center;
     padding-right:20px ;
+    font-size: 27px;
 }
 
 #p1{
     text-align: center;
-    padding-right: 80px;
+    padding-right: 40px;
     color: rgb(47, 43, 43);
 }
 .full-name{
